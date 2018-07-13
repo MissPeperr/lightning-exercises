@@ -1,1 +1,1 @@
-# lightning-exercises
+# JavaScript Exercises
